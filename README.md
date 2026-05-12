@@ -188,3 +188,7 @@ translator/
 - [Argos Translate](https://github.com/argosopentech/argos-translate)
 - [gTTS](https://github.com/pndurette/gTTS)
 - [gpiozero](https://gpiozero.readthedocs.io)
+
+## Acknowledgements
+
+This project was built with the help of [Claude](https://claude.ai) by Anthropic, which assisted in writing and debugging the code throughout development.
