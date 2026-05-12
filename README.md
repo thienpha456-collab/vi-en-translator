@@ -101,7 +101,7 @@ ANTHROPIC_API_KEY=sk-ant-...
 ```
 
 - **Groq** (free) — sign up at [console.groq.com](https://console.groq.com)
-- **Anthropic** — sign up at [console.anthropic.com](https://console.anthropic.com) (~$0.001 per translation)
+- **Anthropic** — sign up at [console.anthropic.com](https://console.anthropic.com). You need your own API key — cost is approximately $0.001 per translation (fractions of a cent). New accounts receive free credits that last months for typical family use.
 
 ### 4. Copy the files
 
